@@ -16,3 +16,4 @@ class squareofnatural{
         System.out.println(result);
     }
 }
+// this is the code for squaresum of natural numbers
